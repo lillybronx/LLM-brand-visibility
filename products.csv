@@ -1,0 +1,101 @@
+product_id,domain,product_name
+1,Technology,Headphones
+2,Technology,Mobile phone
+3,Technology,Ear Pods
+4,Technology,Digital cameras
+5,Technology,Professional cameras
+6,Technology,Computers
+7,Technology,Gaming laptops
+8,Technology,Gaming PC
+9,Technology,Laptop
+10,Technology,Microphones
+11,Technology,Keyboard
+12,Technology,Mouse
+13,Technology,Wireless microphone
+14,Technology,Smart glasses
+15,Technology,Smart watches
+16,Technology,Gaming mouse
+17,Technology,Drones
+18,Technology,Vlogging cameras
+19,Technology,Wireless headphones
+20,Technology,Charging cables
+21,Technology,USB adapter
+22,Technology,Printer
+23,Technology,Portable charger
+24,Technology,Professional drones
+25,Technology,Speakers
+26,Beauty and health,Body moisturiser
+27,Beauty and health,Foundation
+28,Beauty and health,Mascara
+29,Beauty and health,Serums
+30,Beauty and health,Chemical peels
+31,Beauty and health,Eyeshadow
+32,Beauty and health,Lipstick
+33,Beauty and health,Concealer
+34,Beauty and health,Exfoliators
+35,Beauty and health,Perfume
+36,Beauty and health,Deodorant
+37,Beauty and health,Lip gloss
+38,Beauty and health,Makeup brushes
+39,Beauty and health,Sunscreen
+40,Beauty and health,Shampoo
+41,Beauty and health,Conditioner
+42,Beauty and health,Body wash
+43,Beauty and health,Toothpaste
+44,Beauty and health,LED face masks
+45,Beauty and health,Electric toothbrushes
+46,Beauty and health,Face masks
+47,Beauty and health,Contour makeup
+48,Beauty and health,Face wash
+49,Beauty and health,Face moisturiser
+50,Beauty and health,Hair supplements
+51,Food and Drink,Crisps
+52,Food and Drink,Nut bars
+53,Food and Drink,Chocolate
+54,Food and Drink,Fizzy drinks
+55,Food and Drink,Beer
+56,Food and Drink,Kombucha
+57,Food and Drink,Coffee
+58,Food and Drink,Tea
+59,Food and Drink,Chain coffee
+60,Food and Drink,Burger
+61,Food and Drink,Chicken nuggets
+62,Food and Drink,Fries
+63,Food and Drink,Vegan nuggets
+64,Food and Drink,Vegan burger
+65,Food and Drink,Cheese
+66,Food and Drink,Cereal bars
+67,Food and Drink,Cereal
+68,Food and Drink,Vodka
+69,Food and Drink,Whiskey
+70,Food and Drink,Tequila
+71,Food and Drink,Sourdough
+72,Food and Drink,Rum
+73,Food and Drink,Biscuits
+74,Food and Drink,Spreads
+75,Food and Drink,Bread
+76,Apparel,T-shirts
+77,Apparel,Jeans
+78,Apparel,Trainers
+79,Apparel,Joggers
+80,Apparel,Socks
+81,Apparel,Jumpers
+82,Apparel,Hoodies
+83,Apparel,Vests
+84,Apparel,Shorts
+85,Apparel,Pyjamas
+86,Apparel,Boots
+87,Apparel,Gloves
+88,Apparel,Hats
+89,Apparel,Scarves
+90,Apparel,Shirts
+91,Apparel,Suits
+92,Apparel,Belts
+93,Apparel,Cargo trousers
+94,Apparel,Ties
+95,Apparel,Summer dresses
+96,Apparel,Sandals
+97,Apparel,Jacket
+98,Apparel,Formal dresses
+99,Apparel,Ballet flats
+100,Apparel,High heels
